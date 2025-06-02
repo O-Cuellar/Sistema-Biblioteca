@@ -20,26 +20,22 @@ O backend em Java permite manipular e organizar esses dados de forma simples e e
 
     Listagem e consulta de dados
 
-Tecnologias usadas
 
-    Java (linguagem principal)
+## Como rodar localmente
 
-    [Se usar banco, cite aqui: ex: MySQL, PostgreSQL, etc]
-
-    [Se usar frameworks, cite aqui: ex: Spring Boot, JPA, etc]
-
-Como rodar localmente
-
-    Clone o repositório:
-
-git clone <URL-do-repositório>
+Clone o repositório:
 
 Compile o projeto:
 
-javac *.java
+    javac *.java
 
 Execute a aplicação:
 
-java NomeDaClassePrincipal
+    java NomeDaClassePrincipal
 
 Siga as instruções para manipular os dados via terminal ou API.
+
+
+### Tecnologias usadas
+
+    Java (linguagem principal)
