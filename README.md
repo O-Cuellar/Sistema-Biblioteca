@@ -1,0 +1,42 @@
+Sistema Backend CRUD para Biblioteca 📚
+
+Sistema backend desenvolvido em Java que implementa um CRUD completo para gerenciar os dados de uma biblioteca.
+Descrição do projeto
+
+Este projeto oferece funcionalidades básicas de um sistema CRUD (Create, Read, Update, Delete) para o gerenciamento dos principais dados de uma biblioteca, incluindo livros, usuários, empréstimos e devoluções.
+O backend em Java permite manipular e organizar esses dados de forma simples e eficiente, facilitando o controle do acervo e dos usuários.
+Funcionalidades principais
+
+    Cadastro e gerenciamento de livros
+
+    Cadastro e gerenciamento de usuários
+
+    Controle de empréstimos e devoluções
+
+    Atualização e exclusão dos registros
+
+    Listagem e consulta de dados
+
+Tecnologias usadas
+
+    Java (linguagem principal)
+
+    [Se usar banco, cite aqui: ex: MySQL, PostgreSQL, etc]
+
+    [Se usar frameworks, cite aqui: ex: Spring Boot, JPA, etc]
+
+Como rodar localmente
+
+    Clone o repositório:
+
+git clone <URL-do-repositório>
+
+Compile o projeto:
+
+javac *.java
+
+Execute a aplicação:
+
+java NomeDaClassePrincipal
+
+Siga as instruções para manipular os dados via terminal ou API.
