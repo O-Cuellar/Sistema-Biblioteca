@@ -1,6 +1,5 @@
 package domain.book;
 
-import domain.BaseBook;
 import java.time.LocalDate;
 
 public class Book extends BaseBook{

@@ -1,6 +1,8 @@
-package domain;
+package domain.book;
 
 import java.time.LocalDate;
+
+import domain.BaseParameter;
 
 public abstract class BaseBook extends BaseParameter {
 
