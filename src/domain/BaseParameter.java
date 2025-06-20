@@ -27,5 +27,5 @@ public abstract class BaseParameter extends BaseId {
         this.loanDate = loanDate;
         this.returnDate = returnDate;
     }
-    
+
 }

@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public abstract class BaseRepository<TDomain> {
     protected BaseFakeDB<TDomain> dataBase;
 
-    public abstract void create(TDomain instance);
+    public abstract void create(TDomain instance); 
 
     public abstract void read(long id);
 
