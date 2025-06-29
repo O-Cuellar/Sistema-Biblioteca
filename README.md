@@ -1,7 +1,6 @@
 # Sistema Backend CRUD para Biblioteca 📚
 
 Sistema backend desenvolvido em Java que implementa um CRUD completo para gerenciar os dados de uma biblioteca.
-Descrição do projeto
 
 ## Descrição
 
@@ -29,7 +28,7 @@ Compile o projeto:
 
 Execute a aplicação:
 
-Siga as instruções para manipular os dados via terminal.
+Siga as instruções do programa para manipular os dados via terminal.
 
 
 ### Tecnologias usadas
