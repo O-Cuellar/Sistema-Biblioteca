@@ -5,7 +5,7 @@ Descrição do projeto
 
 ## Descrição
 
-Este projeto oferece funcionalidades básicas de um sistema CRUD (Create, Read, Update, Delete) para o gerenciamento dos principais dados de uma biblioteca, incluindo livros, usuários, empréstimos e devoluções.
+Este projeto oferece funcionalidades básicas de um sistema CRUD (Create, Read, Update, Delete) para o gerenciamento do sistema de uma biblioteca, incluindo livros, usuários, empréstimos e devoluções.
 O backend em Java permite manipular e organizar esses dados de forma simples e eficiente, facilitando o controle do acervo e dos usuários.
 
 ### Funcionalidades principais
@@ -27,13 +27,9 @@ Clone o repositório:
 
 Compile o projeto:
 
-    javac *.java
-
 Execute a aplicação:
 
-    java NomeDaClassePrincipal
-
-Siga as instruções para manipular os dados via terminal ou API.
+Siga as instruções para manipular os dados via terminal.
 
 
 ### Tecnologias usadas
